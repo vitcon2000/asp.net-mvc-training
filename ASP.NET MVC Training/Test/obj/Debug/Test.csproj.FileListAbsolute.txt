@@ -1,7 +1,0 @@
-C:\Users\anhnt\source\asp.net-mvc-training\ASP.NET MVC Training\Test\bin\Debug\Test.exe.config
-C:\Users\anhnt\source\asp.net-mvc-training\ASP.NET MVC Training\Test\bin\Debug\Test.exe
-C:\Users\anhnt\source\asp.net-mvc-training\ASP.NET MVC Training\Test\bin\Debug\Test.pdb
-C:\Users\anhnt\source\asp.net-mvc-training\ASP.NET MVC Training\Test\obj\Debug\Test.csprojAssemblyReference.cache
-C:\Users\anhnt\source\asp.net-mvc-training\ASP.NET MVC Training\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
-C:\Users\anhnt\source\asp.net-mvc-training\ASP.NET MVC Training\Test\obj\Debug\Test.exe
-C:\Users\anhnt\source\asp.net-mvc-training\ASP.NET MVC Training\Test\obj\Debug\Test.pdb
