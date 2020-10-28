@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\anhnt\\source\\repos\\ASP.NET MVC Training\\ASP.NET MVC Training\\ASP.NET MVC Training.csproj": {}
+    "C:\\Users\\anhnt\\source\\asp.net-mvc-training\\ASP.NET MVC Training\\ASP.NET MVC Training\\ASP.NET MVC Training.csproj": {}
   },
   "projects": {
-    "C:\\Users\\anhnt\\source\\repos\\ASP.NET MVC Training\\ASP.NET MVC Training\\ASP.NET MVC Training.csproj": {
+    "C:\\Users\\anhnt\\source\\asp.net-mvc-training\\ASP.NET MVC Training\\ASP.NET MVC Training\\ASP.NET MVC Training.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\anhnt\\source\\repos\\ASP.NET MVC Training\\ASP.NET MVC Training\\ASP.NET MVC Training.csproj",
+        "projectUniqueName": "C:\\Users\\anhnt\\source\\asp.net-mvc-training\\ASP.NET MVC Training\\ASP.NET MVC Training\\ASP.NET MVC Training.csproj",
         "projectName": "ASP.NET MVC Training",
-        "projectPath": "C:\\Users\\anhnt\\source\\repos\\ASP.NET MVC Training\\ASP.NET MVC Training\\ASP.NET MVC Training.csproj",
+        "projectPath": "C:\\Users\\anhnt\\source\\asp.net-mvc-training\\ASP.NET MVC Training\\ASP.NET MVC Training\\ASP.NET MVC Training.csproj",
         "packagesPath": "C:\\Users\\anhnt\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\anhnt\\source\\repos\\ASP.NET MVC Training\\ASP.NET MVC Training\\obj\\",
+        "outputPath": "C:\\Users\\anhnt\\source\\asp.net-mvc-training\\ASP.NET MVC Training\\ASP.NET MVC Training\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\anhnt\\AppData\\Roaming\\NuGet\\NuGet.Config",
