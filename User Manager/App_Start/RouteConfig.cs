@@ -16,7 +16,7 @@ namespace User_Manager
             routes.MapRoute(
                 name: "Default",
                 url: "{controller}/{action}/{id}",
-                defaults: new { controller = "UserTest", action = "Index", id = UrlParameter.Optional }
+                defaults: new { controller = "User", action = "Index", id = UrlParameter.Optional }
             );
         }
     }
