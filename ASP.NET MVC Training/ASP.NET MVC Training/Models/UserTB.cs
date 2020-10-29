@@ -11,12 +11,26 @@ namespace ASP.NET_MVC_Training.Models
 {
     using System;
     using System.Collections.Generic;
-    
+    using System.ComponentModel;
+    using System.ComponentModel.DataAnnotations;
+
     public partial class UserTB
     {
         public int ID { get; set; }
+
+        [Required(ErrorMessage ="This field is required")]
         public string Username { get; set; }
+        
+        [Required(ErrorMessage ="This field is required")]
+        [DataType(DataType.Password)]
         public string Password { get; set; }
+        
+        [Required(ErrorMessage ="This field is required")]
+        [DataType(DataType.Password)]
+        [DisplayName("Confirm Password")]
+        [Compare("Password")]
+        public string ConfirmPassword { get; set; }
+        
         public bool IsAdmin { get; set; }
     }
 }
