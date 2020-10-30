@@ -3,9 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30128.74
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASP.NET MVC Training", "ASP.NET MVC Training\ASP.NET MVC Training.csproj", "{FEFB2B2B-B725-4590-943F-B11DE0653DAC}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "User Manager", "..\User Manager\User Manager.csproj", "{33021022-AC46-4980-8545-D81C27E8231A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "User Manager", "User Manager\User Manager.csproj", "{33021022-AC46-4980-8545-D81C27E8231A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,10 +11,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{FEFB2B2B-B725-4590-943F-B11DE0653DAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{FEFB2B2B-B725-4590-943F-B11DE0653DAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{FEFB2B2B-B725-4590-943F-B11DE0653DAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{FEFB2B2B-B725-4590-943F-B11DE0653DAC}.Release|Any CPU.Build.0 = Release|Any CPU
 		{33021022-AC46-4980-8545-D81C27E8231A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{33021022-AC46-4980-8545-D81C27E8231A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{33021022-AC46-4980-8545-D81C27E8231A}.Release|Any CPU.ActiveCfg = Release|Any CPU
